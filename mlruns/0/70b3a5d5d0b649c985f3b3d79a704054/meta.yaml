@@ -1,0 +1,15 @@
+artifact_uri: file:///home/somshekar_ta/ta_training_workspace/MLFlow-Training/mlruns/0/70b3a5d5d0b649c985f3b3d79a704054/artifacts
+end_time: 1724947579464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70b3a5d5d0b649c985f3b3d79a704054
+run_name: rebellious-bird-190
+run_uuid: 70b3a5d5d0b649c985f3b3d79a704054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724947576597
+status: 3
+tags: []
+user_id: somshekar_ta

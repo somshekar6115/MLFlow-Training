@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/826729787346648927/cadc2595b6c04dc59febb7d8a8bad539/artifacts
+end_time: 1724952991594
+entry_point_name: ''
+experiment_id: '826729787346648927'
+lifecycle_stage: active
+run_id: cadc2595b6c04dc59febb7d8a8bad539
+run_name: magnificent-lark-698
+run_uuid: cadc2595b6c04dc59febb7d8a8bad539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724952989253
+status: 3
+tags: []
+user_id: somshekar_ta
